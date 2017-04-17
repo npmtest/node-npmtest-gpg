@@ -1,0 +1,18 @@
+<svg height="238" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="238" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-17 23:46:19 +0000    31381 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 23:46:19 +0000     1101 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 23:46:19 +0000     1628 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 23:46:19 +0000      263 bytes  examples/decrypt.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 23:46:19 +0000      302 bytes  examples/encrypt.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 23:46:19 +0000     8615 bytes  lib/gpg.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 23:46:19 +0000     3528 bytes  lib/spawnGPG.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 23:46:19 +0000     2427 bytes  package.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 23:46:19 +0000      347 bytes  test/hello.gpg</tspan>
+<tspan x="10" y="170">  9.  2017-04-17 23:46:19 +0000       12 bytes  test/hello.txt</tspan>
+<tspan x="10" y="186"> 10.  2017-04-17 23:46:19 +0000     7845 bytes  test/index.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-17 23:46:19 +0000     3539 bytes  test/test.priv.asc</tspan>
+<tspan x="10" y="218"> 12.  2017-04-17 23:46:19 +0000     1774 bytes  test/test.pub.asc</tspan>
+</text>
+</svg>
