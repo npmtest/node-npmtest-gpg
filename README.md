@@ -1,4 +1,7 @@
-# test coverage for  [gpg (v0.6.0)](https://github.com/drudge/node-gpg#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gpg.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gpg) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gpg.svg)](https://travis-ci.org/npmtest/node-npmtest-gpg)
+# npmtest-gpg
+
+#### basic test coverage for  [gpg (v0.6.0)](https://github.com/drudge/node-gpg#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gpg.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gpg) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gpg.svg)](https://travis-ci.org/npmtest/node-npmtest-gpg)
+
 #### GPG encryption and decryption in node.js by way of the gpg command-line tool
 
 [![NPM](https://nodei.co/npm/gpg.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gpg)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gpg/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gpg/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gpg/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gpg/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gpg/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gpg/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gpg/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gpg/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gpg/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gpg/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gpg/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gpg/build/coverage.html/index.html)
 
@@ -85,7 +88,8 @@
         "pretest": "eslint .",
         "test": "mocha"
     },
-    "version": "0.6.0"
+    "version": "0.6.0",
+    "bin": {}
 }
 ```
 
